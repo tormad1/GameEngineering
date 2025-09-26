@@ -188,26 +188,26 @@
 			[
 				{
 					"backtrace" : 17,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 17,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/src"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 18,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/minimp3"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/minimp3"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/AL"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/AL"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers"
 				}
 			],
 			"language" : "CXX",
@@ -277,26 +277,26 @@
 			[
 				{
 					"backtrace" : 17,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 17,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/src"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 18,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/minimp3"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/minimp3"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/AL"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/AL"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers"
 				}
 			],
 			"language" : "RC",
@@ -333,7 +333,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "E:/Github/GameEngineering/test/out/install/x64-Debug"
+			"path" : "E:/Github/GameEngineering/pong/out/install/x64-Debug"
 		}
 	},
 	"link" : 

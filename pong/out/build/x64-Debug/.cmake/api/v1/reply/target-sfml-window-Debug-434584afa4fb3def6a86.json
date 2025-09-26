@@ -164,20 +164,20 @@
 			[
 				{
 					"backtrace" : 12,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 12,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/src"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/vulkan"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/vulkan"
 				},
 				{
 					"backtrace" : 14,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/glad/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/glad/include"
 				}
 			],
 			"language" : "CXX",
@@ -252,20 +252,20 @@
 			[
 				{
 					"backtrace" : 12,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 12,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/src"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/vulkan"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/vulkan"
 				},
 				{
 					"backtrace" : 14,
 					"isSystem" : true,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/glad/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/extlibs/headers/glad/include"
 				}
 			],
 			"language" : "RC",
@@ -302,7 +302,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "E:/Github/GameEngineering/test/out/install/x64-Debug"
+			"path" : "E:/Github/GameEngineering/pong/out/install/x64-Debug"
 		}
 	},
 	"link" : 

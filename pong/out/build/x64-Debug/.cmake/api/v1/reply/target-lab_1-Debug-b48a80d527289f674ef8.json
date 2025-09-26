@@ -86,11 +86,11 @@
 			[
 				{
 					"backtrace" : 8,
-					"path" : "E:/Github/GameEngineering/test/lib/SFML/include"
+					"path" : "E:/Github/GameEngineering/pong/lib/SFML/include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "E:/Github/GameEngineering/test/out/build/x64-Debug/_deps/sfml-src/include"
+					"path" : "E:/Github/GameEngineering/pong/out/build/x64-Debug/_deps/sfml-src/include"
 				}
 			],
 			"language" : "CXX",
@@ -112,15 +112,15 @@
 	[
 		{
 			"backtrace" : 3,
+			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
+		},
+		{
+			"backtrace" : 3,
 			"id" : "sfml-system::@8cb1db2982443611e568"
 		},
 		{
 			"backtrace" : 3,
 			"id" : "sfml-window::@5730451e331e3690ae65"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
 		}
 	],
 	"id" : "lab_1::@6890427a1f51a3e7e1df",
@@ -138,7 +138,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LIBPATH:E:\\Github\\GameEngineering\\test\\out\\build\\x64-Debug\\lib\\SFML\\lib",
+				"fragment" : "-LIBPATH:E:\\Github\\GameEngineering\\pong\\out\\build\\x64-Debug\\lib\\SFML\\lib",
 				"role" : "libraryPath"
 			},
 			{
